@@ -4,3 +4,5 @@ pydantic==1.10
 langchain-community==0.0.32
 pymysql
 langchain-google-genai
+dotenv
+ipykernel
