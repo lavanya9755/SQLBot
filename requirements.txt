@@ -6,3 +6,4 @@ pymysql
 langchain-google-genai
 dotenv
 ipykernel
+chromadb
