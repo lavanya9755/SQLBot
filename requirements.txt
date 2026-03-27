@@ -1,5 +1,4 @@
 langchain
-openai
 pydantic
 langchain-community
 pymysql
@@ -8,7 +7,8 @@ dotenv
 ipykernel
 chromadb
 langchain_chroma
-
+sqlalchemy
+pymysql
 
 
 # pip install -U langchain langchain-core langchain-chroma chromadb langchain-google-genai

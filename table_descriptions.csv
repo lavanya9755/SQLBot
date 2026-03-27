@@ -1,0 +1,8 @@
+Table Name,Description
+customers,"Stores customer details such as name, email, and phone number."
+addresses,"Stores multiple addresses for customers, linked via customer_id."
+stores,Contains store information including store name and location.
+products,"Stores product details including category, price, and associated store."
+orders,Contains order records linked to customers and delivery addresses.
+order_items,Junction table linking orders and products with quantity and price.
+sales_raw,"Raw sales data containing order details, product category, quantity, and country."
